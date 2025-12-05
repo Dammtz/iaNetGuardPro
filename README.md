@@ -1,8 +1,17 @@
 # NetGuard Solutions 
 #### **Empowering Networks, Securing Futures**
 
-NetGuard Solutions es un proveedor líder de software avanzado para redes, especializado en la optimización del rendimiento, la mejora de la seguridad y la habilitación de una escalabilidad sin interrupciones para empresas de todos los tamaños. 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Status](https://img.shields.io/badge/status-Stable-success.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
+![OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange.svg)
+
+ NetGuard Pro es una solución de software para redes a nivel empresarial diseñada para optimizar el rendimiento de las redes, mejorar la seguridad y ofrecer una escalabilidad sin interrupciones para empresas de todos los tamaños.
+
 Este repositorio contiene la documentación y recursos técnicos relacionados con NetGuard Pro, nuestra solución insignia para la gestión inteligente de redes empresariales.
+
+---
 
 ## 🚀 Características Principales 
 
@@ -26,6 +35,7 @@ Este repositorio contiene la documentación y recursos técnicos relacionados co
 - Vistas y notificaciones personalizables.
 - API integrada para automatizar flujos de trabajo.
 
+---
 
 ## 🖥️ Requisitos del Sistema
 
@@ -52,6 +62,8 @@ Este repositorio contiene la documentación y recursos técnicos relacionados co
 - PagerDuty (gestión de incidentes)
 - Splunk (monitoreo de rendimiento)
 
+---
+
 ## 📦 Cómo Comenzar con NetGuard Pro
 
 ### 1. Descargar e Instalar
@@ -76,15 +88,41 @@ Este repositorio contiene la documentación y recursos técnicos relacionados co
 - Visualiza tráfico, alertas y estadísticas en tiempo real.
 - Personaliza widgets, alertas y vistas según tus necesidades.
 
+---
+
+## Licencias y Precios
+ 
+ #### Modelo de Licenciamiento: 
+- Basado en suscripción (opciones mensuales/anuales)
+- Precio por servidor con descuentos por volumen para implementaciones 
+
+#### Precios:
+- Equipos Pequeños: $499/mes (hasta 5 servidores)
+- Organizaciones Medianas: $1,299/mes (hasta 15 servidores)
+- Empresa: Precio personalizado para 16 o más servidores
+
+---
+
+## 📞 Conéctate con Nosotros
+
+**Mantente conectado con nosotros para las últimas actualizaciones y lanzamientos de productos.**
+- Sitio web: www.netguardsolutions.com
+- Correo electrónico: info@netguardsolutions.com
+- Teléfono: +1-800-555-1234
+- LinkedIn: NetGuard Solutions
+
+---
 
 ## Estructura del proyecto 
 
-├── src/
-│   ├── index.js
-│   └── utils.js
-├── tests/
-├── docs/
-└── README.md
+/src
+  /backend        → Servicios internos, motor de análisis y lógica del sistema
+  /frontend       → Interfaz web y panel de control
+  /api            → Endpoints REST/GraphQL para integraciones externas
+/config           → Archivos de configuración base y plantillas
+/scripts          → Herramientas para despliegues, automatización y entornos locales
+/tests            → Pruebas unitarias, de integración y validación
+/docs             → Documentación extendida y referencias técnicas
  
  ## Contribucion 
 
@@ -97,6 +135,8 @@ Este repositorio contiene la documentación y recursos técnicos relacionados co
 4.-Haz push a la rama (git push origin feature/nueva-funcionalidad)
 
 5.-Abre un Pull Request
+
+---
 
 ## Creditos 
  
